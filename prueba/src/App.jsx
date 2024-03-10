@@ -8,7 +8,7 @@ function App() {
 
   return (
    <div>
-    hola favorite
+    hola favoriteerre
    </div>
   )
 }
